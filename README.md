@@ -31,11 +31,11 @@ Networkgram provides users with an intuitive interface to:
 
 To run the project locally:
 
-git clone https://github.com/albertandy9/Networkgram.git
-cd Networkgram
-npm install
-npm start
-Open http://localhost:3000 to view it in the browser.
+- git clone https://github.com/albertandy9/Networkgram.git
+- cd Networkgram
+- npm install
+- npm start
+- Open http://localhost:3000 to view it in the browser.
 
 ## Available Scripts ⚙️
 
