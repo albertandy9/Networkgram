@@ -27,9 +27,9 @@ Networkgram provides users with an intuitive interface to:
 - HTML
 - Tailwind CSS
 
-Getting Started 🚀
+## Getting Started 🚀
 
-## To run the project locally:
+To run the project locally:
 
 git clone https://github.com/albertandy9/Networkgram.git
 cd Networkgram
