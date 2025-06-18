@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Networkgram 🌐🤝
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Networkgram is a responsive social media web platform developed using Node.js, HTML, and Tailwind CSS. It is designed to help users connect and interact seamlessly through a modern interface that supports both dark and light modes.
 
-## Available Scripts
+This was an individual project that I built entirely from scratch, where I took full responsibility as the Front-End Engineer. I developed key pages such as the Login, Register, and Home pages, which included components like profile cards, post feeds, friend suggestions, and friend requests.
+
+## Project Overview 📋
+
+Networkgram provides users with an intuitive interface to:
+- Register and log in securely
+- View personalized content feeds
+- Manage friend requests and suggestions
+- Switch between dark and light mode themes
+
+## Features 🎯
+
+👤 User authentication (Login & Register)
+📰 Dynamic post feed display
+🧑‍🤝‍🧑 Friend suggestion and request system
+🌗 Toggleable dark/light mode UI
+📱 Responsive layout across desktop and mobile
+💻 Built from scratch
+
+## Technologies Used 💻
+
+- Node.js
+- HTML
+- Tailwind CSS
+
+Getting Started 🚀
+
+## To run the project locally:
+
+git clone https://github.com/albertandy9/Networkgram.git
+cd Networkgram
+npm install
+npm start
+Open http://localhost:3000 to view it in the browser.
+
+## Available Scripts ⚙️
 
 In the project directory, you can run:
 
-### `npm start`
+- npm start – Runs the app in development mode
+- npm test – Launches test runner
+- npm run build – Builds the app for production
+- npm run eject – Copies config files for full control (irreversible)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Lessons Learned 🧠
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This was my first time working with Node.js and Tailwind CSS, where I learned:
+- How to structure a full web application from scratch
+- Utility-first CSS design with Tailwind
+- Friend relationship logic and state representation
 
-### `npm test`
+## Future Improvements 🔧
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Add backend database integration (MongoDB or PostgreSQL)
+- Add real-time chat or messaging
+- Implement notifications and alerts
