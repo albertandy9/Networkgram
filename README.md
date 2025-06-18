@@ -60,8 +60,8 @@ This was my first time working with Node.js and Tailwind CSS, where I learned:
 - Implement notifications and alerts
 
 ## Screenshot
-![image1](imagess/Network1.png)
-![image2](imagess/Network2.png)
-![image3](imagess/Network3.png)
-![image4](imagess/Network4.png)
-![image5](imagess/Network5.png)
+![image1](images/Network1.png)
+![image2](images/Network2.png)
+![image3](images/Network3.png)
+![image4](images/Network4.png)
+![image5](images/Network5.png)
